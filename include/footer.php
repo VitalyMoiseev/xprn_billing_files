@@ -1,0 +1,1 @@
+<footer>IP: <?php echo $_SERVER['REMOTE_ADDR']; ?> | &copy; <?php echo "$years $servername"; ?> v<?php echo $version; ?></footer></body></html>
